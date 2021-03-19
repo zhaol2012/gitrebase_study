@@ -1,1 +1,1 @@
-# gitrebase_study
+git rebase and merge study
